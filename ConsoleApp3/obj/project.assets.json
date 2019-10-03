@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\command-pattern-demo\\ConsoleApp3\\Decorator.csproj",
-      "projectName": "Decorator",
-      "projectPath": "C:\\git\\command-pattern-demo\\ConsoleApp3\\Decorator.csproj",
+      "projectUniqueName": "C:\\git\\command-pattern-demo\\ConsoleApp3\\Decorator1.csproj",
+      "projectName": "Decorator1",
+      "projectPath": "C:\\git\\command-pattern-demo\\ConsoleApp3\\Decorator1.csproj",
       "packagesPath": "C:\\Users\\prunce\\.nuget\\packages\\",
       "outputPath": "C:\\git\\command-pattern-demo\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,7 +3,6 @@ C:\git\command-pattern-demo\Factory2\bin\Debug\netcoreapp2.2\Factory2.runtimecon
 C:\git\command-pattern-demo\Factory2\bin\Debug\netcoreapp2.2\Factory2.runtimeconfig.dev.json
 C:\git\command-pattern-demo\Factory2\bin\Debug\netcoreapp2.2\Factory2.dll
 C:\git\command-pattern-demo\Factory2\bin\Debug\netcoreapp2.2\Factory2.pdb
-C:\git\command-pattern-demo\Factory2\obj\Debug\netcoreapp2.2\Factory2.csprojAssemblyReference.cache
 C:\git\command-pattern-demo\Factory2\obj\Debug\netcoreapp2.2\Factory2.csproj.CoreCompileInputs.cache
 C:\git\command-pattern-demo\Factory2\obj\Debug\netcoreapp2.2\Factory2.AssemblyInfoInputs.cache
 C:\git\command-pattern-demo\Factory2\obj\Debug\netcoreapp2.2\Factory2.AssemblyInfo.cs
