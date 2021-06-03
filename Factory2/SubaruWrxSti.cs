@@ -5,12 +5,17 @@ namespace Factory2
     internal class SubaruWrxSti : IAuto
     { 
         
-        SubaruWrxSti()
+ 
+        public void TurnOff()
         {
-            
+            Console.WriteLine("Subaru WRX STI shut off");
         }
 
-
+        public void TurnOn()
+        {
+            Console.WriteLine("Subaru WRX STI started.  VRROOOMMMM!  ");
+            Console.WriteLine("STUTUTUTU!");
+        }
 
     }
 }
