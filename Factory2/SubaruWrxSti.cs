@@ -8,12 +8,13 @@ namespace Factory2
  
         public void TurnOff()
         {
-            Console.WriteLine("Subaru WRX STI shut off");
+            Console.WriteLine("Subaru WRX STI shut off.");
         }
 
         public void TurnOn()
         {
-            Console.WriteLine("Subaru WRX STI started.  VRROOOMMMM!  ");
+            Console.WriteLine("Subaru WRX STI started!");
+            Console.WriteLine("VRRRRROOOOMMMM!");            
             Console.WriteLine("STUTUTUTU!");
         }
 

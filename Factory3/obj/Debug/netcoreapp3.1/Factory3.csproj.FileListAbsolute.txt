@@ -1,0 +1,4 @@
+C:\git\command-pattern-demo-2\Factory3\obj\Debug\netcoreapp3.1\Factory3.csprojAssemblyReference.cache
+C:\git\command-pattern-demo-2\Factory3\obj\Debug\netcoreapp3.1\Factory3.AssemblyInfoInputs.cache
+C:\git\command-pattern-demo-2\Factory3\obj\Debug\netcoreapp3.1\Factory3.AssemblyInfo.cs
+C:\git\command-pattern-demo-2\Factory3\obj\Debug\netcoreapp3.1\Factory3.csproj.CoreCompileInputs.cache
