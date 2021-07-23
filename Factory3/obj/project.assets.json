@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\command-pattern-demo-2\\Factory2\\Factory2.csproj",
-      "projectName": "Factory2",
-      "projectPath": "C:\\git\\command-pattern-demo-2\\Factory2\\Factory2.csproj",
+      "projectUniqueName": "C:\\git\\command-pattern-demo-2\\Factory3\\Factory3.csproj",
+      "projectName": "Factory3",
+      "projectPath": "C:\\git\\command-pattern-demo-2\\Factory3\\Factory3.csproj",
       "packagesPath": "C:\\Users\\Caleb\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\command-pattern-demo-2\\Factory2\\obj\\",
+      "outputPath": "C:\\git\\command-pattern-demo-2\\Factory3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Caleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
