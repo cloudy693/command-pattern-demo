@@ -9,3 +9,4 @@ C:\git\command-pattern-demo\ConsoleApp3\obj\Debug\netcoreapp2.2\Decorator1.Assem
 C:\git\command-pattern-demo\ConsoleApp3\obj\Debug\netcoreapp2.2\Decorator1.AssemblyInfo.cs
 C:\git\command-pattern-demo\ConsoleApp3\obj\Debug\netcoreapp2.2\Decorator1.dll
 C:\git\command-pattern-demo\ConsoleApp3\obj\Debug\netcoreapp2.2\Decorator1.pdb
+C:\git\command-pattern-demo\ConsoleApp3\obj\Debug\netcoreapp2.2\Decorator1.genruntimeconfig.cache
